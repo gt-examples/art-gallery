@@ -1,0 +1,99 @@
+{
+  "0a5574ea52ccebc7": [
+    {
+      "c": "Expositions en cours",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Explorez notre collection sélectionnée présentant des œuvres sur divers supports. Les prix, les dates et les informations sur les artistes sont affichés dans votre langue préférée.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "2b807322d72ff190": {
+    "c": [
+      {
+        "c": "Affiché",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "i": 4,
+            "k": "_gt_date_4",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          }
+        ],
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "369851d46974fd9c": {
+    "c": "Voici un exemple d'application développée avec General Translation pour illustrer l'internationalisation de données de galerie d'art, notamment le formatage des devises, la localisation des dates et la traduction des types de médiums.",
+    "i": 1,
+    "t": "p"
+  },
+  "46f8a463c730ee11": {
+    "c": [
+      {
+        "c": "Prix",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 4,
+          "k": "_gt_cost_4",
+          "v": "c"
+        },
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6a31e06c4c167f86": "Techniques mixtes",
+  "701eab9ad7d26c22": "Galerie d’art | Traduction générique",
+  "76dca963a703c61b": "Acrylique",
+  "95a94b02e25517c3": "Photographie",
+  "a66c8a1e3fd9ac6c": {
+    "c": "Conçu avec General Translation et Next.js pour présenter des expositions de galerie d'art multilingues.",
+    "i": 1,
+    "t": "p"
+  },
+  "b627e15509f1b0cb": "Galerie d’art",
+  "bd1557777ca54ff9": "Une exposition organisée présentant les prix des œuvres, les dates d’exposition, des informations sur les artistes et les types de supports, dans plusieurs langues.",
+  "da0d625b83f00d16": "Aquarelle",
+  "dd0355423fdadc23": "Sculpture",
+  "ec5f243871089c6f": "Huile sur toile",
+  "ef4576fabeda6893": {
+    "c": [
+      "Exposition ",
+      {
+        "i": 2,
+        "k": "_gt_date_2",
+        "v": "d"
+      },
+      " -- ",
+      {
+        "i": 3,
+        "k": "_gt_date_3",
+        "v": "d"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  }
+}

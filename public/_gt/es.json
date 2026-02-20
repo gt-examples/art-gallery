@@ -1,0 +1,99 @@
+{
+  "0a5574ea52ccebc7": [
+    {
+      "c": "Exposiciones actuales",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Explora nuestra colección curada con obras en diversos medios. Los precios, fechas y detalles de los artistas se presentan en tu idioma preferido.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "2b807322d72ff190": {
+    "c": [
+      {
+        "c": "En exhibición",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "i": 4,
+            "k": "_gt_date_4",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          }
+        ],
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "369851d46974fd9c": {
+    "c": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización de datos de una galería de arte, incluyendo el formato de moneda, la localización de fechas y la traducción de tipos de medios.",
+    "i": 1,
+    "t": "p"
+  },
+  "46f8a463c730ee11": {
+    "c": [
+      {
+        "c": "Precio",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 4,
+          "k": "_gt_cost_4",
+          "v": "c"
+        },
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6a31e06c4c167f86": "Técnica mixta",
+  "701eab9ad7d26c22": "Galería de arte | Traducción general",
+  "76dca963a703c61b": "Acrílico",
+  "95a94b02e25517c3": "Fotografía",
+  "a66c8a1e3fd9ac6c": {
+    "c": "Desarrollado con General Translation y Next.js para demostrar exposiciones de galerías de arte multilingües.",
+    "i": 1,
+    "t": "p"
+  },
+  "b627e15509f1b0cb": "Galería de arte",
+  "bd1557777ca54ff9": "Una exposición comisariada que muestra precios de obras, fechas de exposición, información sobre artistas y técnicas en varios idiomas.",
+  "da0d625b83f00d16": "Acuarela",
+  "dd0355423fdadc23": "Escultura",
+  "ec5f243871089c6f": "Óleo sobre lienzo",
+  "ef4576fabeda6893": {
+    "c": [
+      "Exposición ",
+      {
+        "i": 2,
+        "k": "_gt_date_2",
+        "v": "d"
+      },
+      " -- ",
+      {
+        "i": 3,
+        "k": "_gt_date_3",
+        "v": "d"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  }
+}
