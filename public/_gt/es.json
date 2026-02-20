@@ -1,4 +1,8 @@
 {
+  "005ca7b810dfc683": "Elaborada durante meses con decenas de finas veladuras de óleo sobre lienzo de lino, cada capa modifica el color de la anterior. La superficie adquiere una profundidad casi de joya que cambia según las condiciones de iluminación.",
+  "060650a0ec5f4e6d": "Marie Dubois es una pintora y artista de técnica mixta francesa cuyo trabajo explora la vida urbana y la transformación arquitectónica. Graduada de la École des Beaux-Arts de París, ha expuesto extensamente en toda Europa. Sus pinturas combinan imágenes fotográficas con abstracción gestual, reflejando las historias estratificadas que quedan grabadas en los espacios urbanos.",
+  "085d217bcf9cd082": "mexicano",
+  "09d29f03feec420a": "Galería de arte, exposición actual, 2026",
   "0a5574ea52ccebc7": [
     {
       "c": "Exposiciones actuales",
@@ -11,6 +15,125 @@
       "t": "p"
     }
   ],
+  "0b6729490373190b": "<Hiroshi Tanaka es un acuarelista y artista del papel radicado en Kioto. Formado tanto en técnicas tradicionales de nihonga como en acuarela occidental, crea obras que sirven de puente entre las tradiciones pictóricas de Oriente y Occidente. Su proceso meditativo está profundamente influenciado por la práctica del budismo zen y por los ritmos estacionales del paisaje de Kioto.>",
+  "0de602ffe622928b": {
+    "c": "Sobre el artista",
+    "i": 1,
+    "t": "h2"
+  },
+  "0e28167b6ec8782d": "Museo Nacional de Ghana, Acra, 2025",
+  "11404aa3a1ab6142": "Acra",
+  "138428c5e93671da": "Monumento al silencio",
+  "154164aa688a60b5": "Una serie de fotografías de gran formato que documentan la interacción entre la luz natural y las partículas en suspensión en espacios arquitectónicos abandonados de toda África Occidental. El enfoque paciente y contemplativo de Asante revela una belleza inesperada en la decadencia y la impermanencia.",
+  "159dca974f7fb099": "ghanés",
+  "181356553d97edff": "Marie Dubois es una pintora y artista de medios mixtos francesa cuya obra explora la vida urbana y la transformación arquitectónica. Graduada de la École des Beaux-Arts de París, ha expuesto ampliamente por toda Europa.",
+  "1bee0296360b4ef5": "Galería Uffizi (ala de arte contemporáneo), Florencia, 2024",
+  "1d7556155c7b6800": "El agua enseña paciencia. Cada sesión sobre el papel empieza escuchando al material, entendiendo qué aceptará y qué no. Las pinturas del jardín no son representaciones, sino colaboraciones con el medio.",
+  "1ea8a9211ef46ae4": "Una luminosa exploración del color y la memoria, esta pintura al óleo de gran formato superpone veladuras translúcidas para crear una atmósfera resplandeciente y onírica. Vasquez se inspira en la tradición del muralismo mexicano mientras se adentra en la abstracción pura, dejando que el tono y la saturación articulen la narrativa emocional.",
+  "1f70c4e9e579f6f8": "Una pintura de gran formato y audaz que deconstruye el lenguaje visual de la ciudad moderna. Dubois superpone transferencias fotográficas con un empaste espeso de acrílico, creando tensión entre la imagen documental plana y la superficie pictórica gestual y física.",
+  "2033be28a309b425": {
+    "c": "Acerca de este trabajo",
+    "i": 1,
+    "t": "h2"
+  },
+  "252113dddccaec1a": "francés",
+  "2b0c47f3af61f720": {
+    "c": [
+      {
+        "c": "Detalles",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Medio",
+                "i": 5,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 7,
+                  "k": "_gt_value_7",
+                  "v": "v"
+                },
+                "i": 6,
+                "t": "dd"
+              }
+            ],
+            "i": 4,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Dimensiones",
+                "i": 9,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 11,
+                  "k": "_gt_value_11",
+                  "v": "v"
+                },
+                "i": 10,
+                "t": "dd"
+              }
+            ],
+            "i": 8,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Año",
+                "i": 13,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 15,
+                  "k": "_gt_value_15",
+                  "v": "v"
+                },
+                "i": 14,
+                "t": "dd"
+              }
+            ],
+            "i": 12,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Precio",
+                "i": 17,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 19,
+                  "k": "_gt_cost_19",
+                  "v": "c"
+                },
+                "i": 18,
+                "t": "dd"
+              }
+            ],
+            "i": 16,
+            "t": "div"
+          }
+        ],
+        "i": 3,
+        "t": "dl"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
   "2b807322d72ff190": {
     "c": [
       {
@@ -39,11 +162,20 @@
     "i": 1,
     "t": "div"
   },
+  "2e92a7c102da6ec6": "Acuarela en húmedo sobre húmedo sobre papel washi hecho a mano. Se permite que los pigmentos fluyan libremente, con detalles selectivos a pincel seco añadidos en las últimas pasadas para anclar la composición.",
+  "303ebf517cf2c193": "París",
+  "30c09f13e310afe2": "Luz y polvo",
+  "3545659a9d1bb2e3": "italiano",
   "369851d46974fd9c": {
-    "c": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización de datos de una galería de arte, incluyendo el formato de moneda, la localización de fechas y la traducción de tipos de medios.",
+    "c": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización de datos de una galería de arte, incluyendo el formato de moneda, la localización de fechas y la traducción de tipos de medio.",
     "i": 1,
     "t": "p"
   },
+  "3874e3b1e17ea081": "Elena Vasquez es una pintora que trabaja en la intersección entre la abstracción y la tradición muralista mexicana. Después de estudiar en la Universidad Nacional Autónoma de México, vivió cinco años en Berlín antes de regresar a Ciudad de México, donde dirige un gran estudio-taller.",
+  "3b74c3c08273e640": "Tomada en película de formato medio, utilizando largas exposiciones para capturar el movimiento del polvo a través de haces de luz natural. Impresa como copias con tintas pigmentadas de calidad de archivo sobre papel de algodón.",
+  "3dd7f3588877a5b4": "Museo de Arte Moderno, Ciudad de México, 2023",
+  "439c2732a873008e": "Museo Municipal de Arte de Kioto, 2024",
+  "45c2dba0460a1b5c": "Una obra inmersiva de técnica mixta que explora los espacios liminales entre la vigilia y el sueño. Lindqvist combina textiles teñidos a mano, cera a la encáustica y dibujo a grafito sobre una superficie rica en estratos que invita a una contemplación prolongada.",
   "46f8a463c730ee11": {
     "c": [
       {
@@ -64,18 +196,185 @@
     "i": 1,
     "t": "div"
   },
+  "4fb285a72c38c3a3": "El espacio entre el sueño y la vigilia es donde vive mi obra. Quiero que quien la contempla sienta esa misma incertidumbre, esa suave disolución de los límites entre el yo y el entorno.",
+  "5230b5c5261625d5": "Pienso en el color como un lenguaje en sí mismo, capaz de hablar a través de las culturas sin necesidad de traducción. Cada capa de pintura es una frase, y la superficie final es una conversación entre todas ellas.",
+  "55c1d9e34c5382b4": "Una imponente escultura de mármol que evoca el peso de las palabras no dichas. Rinaldi talla el espacio negativo con la misma intención que la forma sólida, creando aberturas por las que la luz se filtra y transforma la pieza según la hora del día.",
+  "56f4d686ece0af41": {
+    "c": "Historial de exposiciones",
+    "i": 1,
+    "t": "h2"
+  },
+  "573417f328f09c1c": "Florencia",
+  "593ee00fe82e403c": "Jardín de Esculturas, Yorkshire, 2025",
+  "5950bf35d9440cd8": "sueco",
+  "653dae0458aa36af": "Fotografío aquello en lo que la mayoría de la gente no se fija: la grieta en la pared por donde entra la luz, el polvo suspendido en una habitación vacía. Estos momentos silenciosos encierran historias completas.",
+  "66e132327aed36fe": {
+    "c": [
+      "por ",
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      " · ",
+      {
+        "i": 3,
+        "k": "_gt_value_3",
+        "v": "v"
+      },
+      " · ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
   "6a31e06c4c167f86": "Técnica mixta",
+  "6bdab4602210f873": "Lagos Photo Festival, 2025",
+  "6f21527e811c1fdb": "Moderna Museet, Estocolmo, 2025",
   "701eab9ad7d26c22": "Galería de arte | Traducción general",
+  "767bf5309af42857": "Ensoñación cromática",
   "76dca963a703c61b": "Acrílico",
+  "773e30d1f500a929": {
+    "c": [
+      {
+        "c": "En exhibición",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": [
+          {
+            "i": 4,
+            "k": "_gt_date_4",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          }
+        ],
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "784076e5090757be": "Centre Pompidou (sala de proyectos), París, 2022",
+  "7fa0586be36f39de": {
+    "c": [
+      "Ver todas las obras de ",
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "Link"
+  },
+  "8059cc3475107b61": {
+    "c": "Obras en Esta Exposición",
+    "i": 1,
+    "t": "h2"
+  },
+  "85a5d1be6164a380": "Sofia Rinaldi es una escultora italiana conocida por sus monumentales obras en mármol. Trabajando desde un estudio cercano a las canteras de Carrara, se nutre de la profunda tradición italiana de talla en piedra mientras desarrolla un lenguaje formal decididamente contemporáneo. Sus esculturas se encuentran instaladas en colecciones públicas y privadas de toda Europa.",
+  "86be8339c746614b": "Elena Vasquez es una pintora que trabaja en la intersección de la abstracción y la tradición muralista mexicana. Después de estudiar en la Universidad Nacional Autónoma de México, pasó cinco años en Berlín antes de regresar a la Ciudad de México, donde mantiene un amplio estudio. Su obra se ha expuesto internacionalmente y forma parte de colecciones en América y Europa.",
+  "88423bb5f93412e3": {
+    "c": "Declaración del artista",
+    "i": 1,
+    "t": "h2"
+  },
+  "8b1382a1cc148846": "Ciudad de México",
+  "8d2a179e75c9adf2": "Sofia Rinaldi es una escultora italiana conocida por sus monumentales obras en mármol. Trabajando desde un estudio ubicado cerca de las canteras de Carrara, se nutre de la profunda tradición italiana de la talla en piedra mientras persigue un lenguaje formal decididamente contemporáneo.",
+  "8ebb8e03133f908a": {
+    "c": "Técnica",
+    "i": 1,
+    "t": "h2"
+  },
+  "9071fc36b6c81666": "La ciudad nunca está terminada. Me atraen los momentos en que una versión de un lugar se filtra a través de otra, el palimpsesto de demolición y construcción que define la experiencia urbana.",
+  "90ea6c9c7e2af402": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      " · b. ",
+      {
+        "i": 3,
+        "k": "_gt_value_3",
+        "v": "v"
+      },
+      " · Con sede en ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
   "95a94b02e25517c3": "Fotografía",
+  "974c742a718f71d8": "Estados liminales",
+  "9a2ed68f4150d3b3": {
+    "c": [
+      "por ",
+      {
+        "c": {
+          "i": 3,
+          "k": "_gt_value_3",
+          "v": "v"
+        },
+        "i": 2,
+        "t": "Link"
+      },
+      ", ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "9d35e17a1604a402": "Mármol de Carrara tallado a mano, acabado con una combinación de superficies pulidas y rugosas. El juego entre las zonas lisas y texturizadas guía la mirada del espectador a lo largo de la forma.",
+  "a45be0b25809e71f": "Inspirada en los jardines de Kioto, esta acuarela captura la belleza efímera de la luz reflejada en el agua. Tanaka utiliza la técnica de húmedo sobre húmedo para dejar que los pigmentos florezcan y se fusionen, evocando la suave impermanencia que está en el corazón de la estética japonesa.",
+  "a4a5694f3156755d": "MACBA, Barcelona, 2023",
+  "a5df6318699681e2": "Estocolmo",
   "a66c8a1e3fd9ac6c": {
     "c": "Desarrollado con General Translation y Next.js para demostrar exposiciones de galerías de arte multilingües.",
     "i": 1,
     "t": "p"
   },
-  "b627e15509f1b0cb": "Galería de arte",
-  "bd1557777ca54ff9": "Una exposición comisariada que muestra precios de obras, fechas de exposición, información sobre artistas y técnicas en varios idiomas.",
+  "ab94583b85ebf669": "Bienal de Acuarela, Fabriano, 2025",
+  "ae4f3a17ca56c602": "El mármol lo recuerda todo: la presión, el calor, los millones de años de transformación. Cuando esculpo, no impongo una forma, sino que libero la que la piedra ha estado guardando.",
+  "b22ee69f67ced548": "Volver a la galería",
+  "b8a88157a55c9fd9": "Galerie Nord, Berlín, 2024",
+  "bd1557777ca54ff9": "Una exposición comisariada que muestra precios de obras, fechas de exhibición, información sobre artistas y técnicas en varios idiomas.",
+  "bee2e2dcbad4793b": "Kwame Asante es un fotógrafo y artista visual ghanés cuyo trabajo documenta la arquitectura, la luz y el espacio en toda África Occidental. Autodidacta, desarrolló su estilo distintivo a lo largo de los años explorando estructuras abandonadas y en transformación. Sus fotografías revelan la poesía silenciosa de los espacios olvidados.",
+  "c5c47b496a3d64f8": "Anders Lindqvist es un artista sueco cuya práctica abarca la pintura, el arte textil y la instalación. Su obra explora estados de conciencia y los límites entre la experiencia interior y exterior. Radicado en Estocolmo, ha realizado residencias artísticas en diversas instituciones de toda Escandinavia y ha participado en numerosas exposiciones colectivas.",
+  "c66479043b0172cb": "Hiroshi Tanaka es acuarelista y artista del papel con sede en Kioto. Formado en técnicas tradicionales de nihonga y en acuarela occidental, crea obras que conectan las tradiciones pictóricas de Oriente y Occidente.",
+  "cb2380fe855761b8": "Pintura acrílica combinada con foto-transferencia y elementos de collage sobre lienzo tensado. Los trazos de fuerte empaste contrastan con zonas suaves y de aspecto fotográfico.",
+  "cb77fae7cbfd4bf2": "Jardines flotantes",
+  "d0542b02a04e1b4f": "Fragmentos urbanos",
+  "d1634d41846e72cb": "japonés",
+  "d48f48673cffe5af": "Kwame Asante es un fotógrafo y artista visual ghanés cuyo trabajo documenta la arquitectura, la luz y el espacio en toda África Occidental. Autodidacta, desarrolló su estilo distintivo tras años de explorar estructuras abandonadas y en transformación.",
+  "d82b969040f80300": "Kyoto",
   "da0d625b83f00d16": "Acuarela",
+  "db5b6d84f8af924d": {
+    "c": "Biografía",
+    "i": 1,
+    "t": "h2"
+  },
   "dd0355423fdadc23": "Escultura",
   "ec5f243871089c6f": "Óleo sobre lienzo",
   "ef4576fabeda6893": {
@@ -95,5 +394,8 @@
     ],
     "i": 1,
     "t": "span"
-  }
+  },
+  "f2165c028a0387c7": "Pabellón Nórdico, Bienal de Arquitectura de Venecia, 2025",
+  "f252e7e7f07bbd02": "Anders Lindqvist es un artista sueco cuya práctica abarca la pintura, el arte textil y la instalación. Su obra investiga estados de conciencia y las fronteras entre la experiencia interior y exterior.",
+  "f3bdc27012424d48": "Cera de encausto, lino teñido a mano, grafito y fragmentos de textiles hallados ensamblados sobre un panel de madera. Cada material responde de forma distinta a la luz, creando una superficie que cambia a lo largo del día."
 }

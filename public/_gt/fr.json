@@ -1,4 +1,8 @@
 {
+  "005ca7b810dfc683": "Élaborée au fil de plusieurs mois à l’aide de dizaines de fines couches d’huile glacée sur toile de lin, chacune modifiant la couleur sous-jacente. La surface présente une profondeur quasi précieuse qui varie selon les conditions d’éclairage.",
+  "060650a0ec5f4e6d": "Marie Dubois est une peintre et artiste multimédia française dont le travail explore la vie urbaine et les transformations architecturales. Diplômée des Beaux-Arts de Paris, elle a beaucoup exposé à travers l’Europe. Ses peintures associent des images photographiques à une abstraction gestuelle, reflétant les histoires stratifiées inscrites dans les espaces urbains.",
+  "085d217bcf9cd082": "mexicain",
+  "09d29f03feec420a": "Galerie d’art, exposition en cours, 2026",
   "0a5574ea52ccebc7": [
     {
       "c": "Expositions en cours",
@@ -6,11 +10,130 @@
       "t": "h2"
     },
     {
-      "c": "Explorez notre collection sélectionnée présentant des œuvres sur divers supports. Les prix, les dates et les informations sur les artistes sont affichés dans votre langue préférée.",
+      "c": "Explorez notre collection sélectionnée présentant des œuvres sur des supports variés. Les prix, les dates et les informations sur les artistes sont affichés dans votre langue préférée.",
       "i": 2,
       "t": "p"
     }
   ],
+  "0b6729490373190b": "Hiroshi Tanaka est un aquarelliste et artiste travaillant sur papier, installé à Kyoto. Formé à la fois aux techniques traditionnelles du nihonga et à l’aquarelle occidentale, il crée des œuvres qui font le lien entre les traditions picturales d’Orient et d’Occident. Son processus méditatif est profondément influencé par la pratique du bouddhisme zen et par les rythmes saisonniers des paysages de Kyoto.",
+  "0de602ffe622928b": {
+    "c": "À propos de l'artiste",
+    "i": 1,
+    "t": "h2"
+  },
+  "0e28167b6ec8782d": "Musée national du Ghana, Accra, 2025",
+  "11404aa3a1ab6142": "Accra",
+  "138428c5e93671da": "Monument au silence",
+  "154164aa688a60b5": "Une série de photographies grand format documentant l’interaction entre la lumière naturelle et les particules en suspension dans l’air, au sein d’espaces architecturaux abandonnés en Afrique de l’Ouest. L’approche patiente et contemplative d’Asante révèle une beauté inattendue dans la dégradation et l’impermanence.",
+  "159dca974f7fb099": "ghanéen",
+  "181356553d97edff": "Marie Dubois est une artiste peintre et artiste multimédia française dont le travail explore la vie urbaine et les transformations architecturales. Diplômée des Beaux-Arts de Paris, elle a beaucoup exposé à travers l’Europe.",
+  "1bee0296360b4ef5": "Galerie des Offices (aile contemporaine), Florence, 2024",
+  "1d7556155c7b6800": "L’eau enseigne la patience. Chaque séance de travail sur papier commence par une écoute du matériau, par la compréhension de ce qu’il est prêt à accepter ou non. Les tableaux de jardin ne sont pas des représentations, mais des collaborations avec le médium.",
+  "1ea8a9211ef46ae4": "Exploration lumineuse de la couleur et de la mémoire, cette peinture à l’huile de grand format superpose des glacis translucides pour créer une atmosphère chatoyante et onirique. Vasquez puise dans la tradition du muralisme mexicain tout en s’aventurant vers une abstraction plus radicale, confiant à la teinte et à la saturation le soin de porter le récit émotionnel.",
+  "1f70c4e9e579f6f8": "Une peinture audacieuse de grand format, qui déconstruit le langage visuel de la ville moderne. Dubois compose un collage de transferts photographiques avec un épais empâtement acrylique, créant une tension entre l’image documentaire plate et la surface picturale gestuelle et matérielle.",
+  "2033be28a309b425": {
+    "c": "À propos de ce projet",
+    "i": 1,
+    "t": "h2"
+  },
+  "252113dddccaec1a": "français",
+  "2b0c47f3af61f720": {
+    "c": [
+      {
+        "c": "Détails",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Support",
+                "i": 5,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 7,
+                  "k": "_gt_value_7",
+                  "v": "v"
+                },
+                "i": 6,
+                "t": "dd"
+              }
+            ],
+            "i": 4,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Dimensions",
+                "i": 9,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 11,
+                  "k": "_gt_value_11",
+                  "v": "v"
+                },
+                "i": 10,
+                "t": "dd"
+              }
+            ],
+            "i": 8,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Année",
+                "i": 13,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 15,
+                  "k": "_gt_value_15",
+                  "v": "v"
+                },
+                "i": 14,
+                "t": "dd"
+              }
+            ],
+            "i": 12,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Prix",
+                "i": 17,
+                "t": "dt"
+              },
+              {
+                "c": {
+                  "i": 19,
+                  "k": "_gt_cost_19",
+                  "v": "c"
+                },
+                "i": 18,
+                "t": "dd"
+              }
+            ],
+            "i": 16,
+            "t": "div"
+          }
+        ],
+        "i": 3,
+        "t": "dl"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
   "2b807322d72ff190": {
     "c": [
       {
@@ -39,11 +162,20 @@
     "i": 1,
     "t": "div"
   },
+  "2e92a7c102da6ec6": "Aquarelle « mouillé sur mouillé » sur papier washi fait main. Les pigments sont laissés libres de se diffuser, avec des détails sélectifs au pinceau sec ajoutés lors des dernières passes pour ancrer la composition.",
+  "303ebf517cf2c193": "Paris",
+  "30c09f13e310afe2": "Lumière et poussière",
+  "3545659a9d1bb2e3": "italien",
   "369851d46974fd9c": {
-    "c": "Voici un exemple d'application développée avec General Translation pour illustrer l'internationalisation de données de galerie d'art, notamment le formatage des devises, la localisation des dates et la traduction des types de médiums.",
+    "c": "Il s'agit d'un exemple d'application développée avec General Translation pour illustrer l'internationalisation de données de galerie d'art, notamment le formatage des devises, la localisation des dates et la traduction des types de médiums.",
     "i": 1,
     "t": "p"
   },
+  "3874e3b1e17ea081": "Elena Vasquez est une peintre qui travaille à la croisée de l’abstraction et de la tradition des muralistes mexicains. Après avoir étudié à l’Université nationale autonome du Mexique, elle a passé cinq ans à Berlin avant de revenir à Mexico, où elle développe une riche pratique d’atelier.",
+  "3b74c3c08273e640": "Photographié sur film moyen format avec des poses longues pour capturer le mouvement de la poussière dans les faisceaux de lumière naturelle. Tirages pigmentaires de qualité archivistique sur papier chiffon de coton.",
+  "3dd7f3588877a5b4": "Museo de Arte Moderno, Mexique, 2023",
+  "439c2732a873008e": "Musée municipal d’art de Kyoto, 2024",
+  "45c2dba0460a1b5c": "Une œuvre multimédia immersive qui explore les espaces liminaires entre l’état de veille et le sommeil. Lindqvist combine des textiles teints à la main, de la cire encaustique et des dessins au graphite pour créer une surface richement stratifiée qui invite à une contemplation prolongée.",
   "46f8a463c730ee11": {
     "c": [
       {
@@ -64,18 +196,185 @@
     "i": 1,
     "t": "div"
   },
+  "4fb285a72c38c3a3": "L’espace entre le sommeil et l’éveil, c’est là que vit mon travail. Je veux que le spectateur ressente cette même incertitude, ce doux effacement des frontières entre soi et l’environnement.",
+  "5230b5c5261625d5": "Je considère la couleur comme un langage à part entière, qui traverse les cultures sans nécessiter de traduction. Chaque couche de peinture est une phrase, et la surface finale est une conversation entre toutes ces couches.",
+  "55c1d9e34c5382b4": "Une imposante sculpture en marbre qui évoque le poids des non-dits. Rinaldi sculpte le vide aussi délibérément que la matière, créant des ouvertures par lesquelles la lumière passe et transforme la pièce au fil de la journée.",
+  "56f4d686ece0af41": {
+    "c": "Historique des expositions",
+    "i": 1,
+    "t": "h2"
+  },
+  "573417f328f09c1c": "Florence",
+  "593ee00fe82e403c": "Jardin de sculptures, Yorkshire, 2025",
+  "5950bf35d9440cd8": "suédois",
+  "653dae0458aa36af": "Je photographie ce devant quoi la plupart des gens passent sans le voir. La fissure dans le mur où la lumière filtre, la poussière en suspension dans une pièce vide. Ces instants silencieux renferment des histoires entières.",
+  "66e132327aed36fe": {
+    "c": [
+      "par ",
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      " · ",
+      {
+        "i": 3,
+        "k": "_gt_value_3",
+        "v": "v"
+      },
+      " · ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
   "6a31e06c4c167f86": "Techniques mixtes",
+  "6bdab4602210f873": "Lagos Photo Festival, 2025",
+  "6f21527e811c1fdb": "Moderna Museet, Stockholm, 2025",
   "701eab9ad7d26c22": "Galerie d’art | Traduction générique",
+  "767bf5309af42857": "Rêverie chromatique",
   "76dca963a703c61b": "Acrylique",
+  "773e30d1f500a929": {
+    "c": [
+      {
+        "c": "En cours d'affichage",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": [
+          {
+            "i": 4,
+            "k": "_gt_date_4",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          }
+        ],
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "784076e5090757be": "Centre Pompidou (Espace Projets), Paris, 2022",
+  "7fa0586be36f39de": {
+    "c": [
+      "Voir toutes les œuvres de ",
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "Link"
+  },
+  "8059cc3475107b61": {
+    "c": "Œuvres de cette exposition",
+    "i": 1,
+    "t": "h2"
+  },
+  "85a5d1be6164a380": "Sofia Rinaldi est une sculptrice italienne connue pour ses œuvres monumentales en marbre. Travaillant dans un atelier près des carrières de Carrare, elle s’appuie sur la riche tradition italienne de la taille de pierre tout en développant un langage formel résolument contemporain. Ses sculptures figurent dans des collections publiques et privées à travers l’Europe.",
+  "86be8339c746614b": "Elena Vasquez est une peintre qui travaille à l’intersection de l’abstraction et de la tradition muraliste mexicaine. Après avoir étudié à l’Université nationale autonome du Mexique, elle a passé cinq ans à Berlin avant de revenir à Mexico, où elle développe une importante pratique d’atelier. Son travail a été exposé à l’international et figure dans des collections à travers les Amériques et l’Europe.",
+  "88423bb5f93412e3": {
+    "c": "Déclaration d'artiste",
+    "i": 1,
+    "t": "h2"
+  },
+  "8b1382a1cc148846": "Mexico",
+  "8d2a179e75c9adf2": "Sofia Rinaldi est une sculptrice italienne, connue pour ses œuvres monumentales en marbre. Travaillant dans un atelier près des carrières de Carrare, elle s’inscrit dans la grande tradition italienne de la sculpture sur pierre tout en poursuivant une recherche formelle résolument contemporaine.",
+  "8ebb8e03133f908a": {
+    "c": "Technique",
+    "i": 1,
+    "t": "h2"
+  },
+  "9071fc36b6c81666": "La ville n’est jamais terminée. Je suis attiré par les moments où une version d’un lieu affleure à travers une autre, ce palimpseste de démolitions et de constructions qui définit l’expérience urbaine.",
+  "90ea6c9c7e2af402": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      " · né le ",
+      {
+        "i": 3,
+        "k": "_gt_value_3",
+        "v": "v"
+      },
+      " · Basé à ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
   "95a94b02e25517c3": "Photographie",
+  "974c742a718f71d8": "États limites",
+  "9a2ed68f4150d3b3": {
+    "c": [
+      "par ",
+      {
+        "c": {
+          "i": 3,
+          "k": "_gt_value_3",
+          "v": "v"
+        },
+        "i": 2,
+        "t": "Link"
+      },
+      ", ",
+      {
+        "i": 4,
+        "k": "_gt_value_4",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "9d35e17a1604a402": "Marbre de Carrare sculpté à la main, fini par une combinaison de surfaces polies et taillées brutes. Le jeu entre zones lisses et texturées guide le regard du spectateur à travers la forme.",
+  "a45be0b25809e71f": "Inspirée par les jardins de Kyoto, cette aquarelle capture la beauté éphémère de la lumière se reflétant sur l’eau. Tanaka utilise la technique du « mouillé sur mouillé » pour laisser les pigments s’épanouir et se fondre, évoquant la douce impermanence au cœur de l’esthétique japonaise.",
+  "a4a5694f3156755d": "MACBA, Barcelone, 2023",
+  "a5df6318699681e2": "Stockholm",
   "a66c8a1e3fd9ac6c": {
     "c": "Conçu avec General Translation et Next.js pour présenter des expositions de galerie d'art multilingues.",
     "i": 1,
     "t": "p"
   },
-  "b627e15509f1b0cb": "Galerie d’art",
-  "bd1557777ca54ff9": "Une exposition organisée présentant les prix des œuvres, les dates d’exposition, des informations sur les artistes et les types de supports, dans plusieurs langues.",
+  "ab94583b85ebf669": "Biennale d’aquarelle de Fabriano, 2025",
+  "ae4f3a17ca56c602": "Le marbre se souvient de tout : la pression, la chaleur, les millions d’années de métamorphose. Quand je sculpte, je ne lui impose pas une forme, j’en libère une que la pierre contenait déjà.",
+  "b22ee69f67ced548": "Retour à la galerie",
+  "b8a88157a55c9fd9": "Galerie Nord, Berlin, 2024",
+  "bd1557777ca54ff9": "Une exposition structurée qui présente, dans plusieurs langues, les prix des œuvres, les dates d’exposition, des informations sur les artistes et les supports utilisés.",
+  "bee2e2dcbad4793b": "Kwame Asante est un photographe et artiste visuel ghanéen dont le travail documente l’architecture, la lumière et les espaces à travers l’Afrique de l’Ouest. Autodidacte, il a développé son style distinctif au fil d’années d’exploration de structures abandonnées ou en transformation. Ses photographies révèlent la poésie subtile des espaces négligés.",
+  "c5c47b496a3d64f8": "Anders Lindqvist est un artiste suédois dont la pratique englobe la peinture, les arts textiles et l’installation. Son travail explore les états de conscience et les frontières entre l’expérience intérieure et extérieure. Basé à Stockholm, il a effectué des résidences dans des établissements culturels à travers la Scandinavie et a participé à de nombreuses expositions collectives.",
+  "c66479043b0172cb": "Hiroshi Tanaka est un aquarelliste et artiste travaillant le papier, basé à Kyoto. Formé à la fois aux techniques traditionnelles du nihonga et à l’aquarelle occidentale, il crée des œuvres qui établissent des ponts entre les traditions picturales orientales et occidentales.",
+  "cb2380fe855761b8": "Peinture acrylique combinée à des éléments de transfert photo et de collage sur toile montée sur châssis. Des passages en fort empâtement contrastent avec des zones lisses et photographiques.",
+  "cb77fae7cbfd4bf2": "Jardins flottants",
+  "d0542b02a04e1b4f": "Fragments urbains",
+  "d1634d41846e72cb": "japonais",
+  "d48f48673cffe5af": "Kwame Asante est un photographe et artiste visuel ghanéen dont le travail documente l’architecture, la lumière et les espaces en Afrique de l’Ouest. Autodidacte, il a développé son style distinctif au fil de plusieurs années d’exploration de structures abandonnées ou en mutation.",
+  "d82b969040f80300": "Kyoto",
   "da0d625b83f00d16": "Aquarelle",
+  "db5b6d84f8af924d": {
+    "c": "Biographie",
+    "i": 1,
+    "t": "h2"
+  },
   "dd0355423fdadc23": "Sculpture",
   "ec5f243871089c6f": "Huile sur toile",
   "ef4576fabeda6893": {
@@ -95,5 +394,8 @@
     ],
     "i": 1,
     "t": "span"
-  }
+  },
+  "f2165c028a0387c7": "Pavillon nordique, Biennale d’architecture de Venise, 2025",
+  "f252e7e7f07bbd02": "Anders Lindqvist est un artiste suédois dont la pratique couvre la peinture, les arts textiles et l’installation. Son œuvre interroge les états de conscience et les frontières entre expérience intérieure et extérieure.",
+  "f3bdc27012424d48": "Cire encaustique, lin teint à la main, graphite et fragments de textiles trouvés assemblés sur un panneau de bois. Chaque matériau réagit différemment à la lumière, créant une surface qui se transforme au fil de la journée."
 }
